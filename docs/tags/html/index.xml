@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>html on Website of Xuemei Tang</title>
+    <link>https://tangxuemei1995.github.io/tags/html/</link>
+    <description>Recent content in html on Website of Xuemei Tang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tangxuemei1995.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>tensorflow 一维卷积 tf.nn.conv1d 的使用</title>
+      <link>https://tangxuemei1995.github.io/post/blog-2/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tangxuemei1995.github.io/post/blog-2/</guid>
+      <description>tendorflow里面怎么用tf.nn.conv1d
+基本格式：
+tf.nn.conv1d（value,
+filters,
+stride,
+padding,
+use_cudnn_on_gpu=None,
+data_format=None,
+name=None )</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://tangxuemei1995.github.io/about/about-me/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tangxuemei1995.github.io/about/about-me/</guid>
+      <description>🌈 Welcom to my homepage. I&amp;rsquo;m a PHD student of PeKing University.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://tangxuemei1995.github.io/my-first-post/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tangxuemei1995.github.io/my-first-post/</guid>
+      <description>🌈 Welcom to my homepage. I&amp;rsquo;m a PHD student of PeKing University.</description>
+    </item>
+    
+    <item>
+      <title>tensorflow.python.framework.errors_impl.InvalidArgumentError: Incompatible shapes: [40,12] vs. [40,1]</title>
+      <link>https://tangxuemei1995.github.io/post/blog-1/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tangxuemei1995.github.io/post/blog-1/</guid>
+      <description>tensorflow.python.framework.errors_impl.InvalidArgumentError: Incompatible shapes: [40,12] vs. [40,14]
+今天在LSTM前面加了一层CNN以后，发现出现了以上错误。
+然后将CNN中，padding 从‘VALID&amp;rsquo;改成了&amp;rsquo;SAME&amp;rsquo;，就能正常运行了。
+&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;.. 原来代码是这样的</description>
+    </item>
+    
+  </channel>
+</rss>
