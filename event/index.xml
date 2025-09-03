@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | TANG Xuemei Homepage</title>
+    <link>https://tangxuemei1995.github.io/event/</link>
+      <atom:link href="https://tangxuemei1995.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Jun 2025 14:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tangxuemei1995.github.io/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://tangxuemei1995.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Polyu NLP Explorations:  LLM and Beyond Symposiums series no. 5</title>
+      <link>https://tangxuemei1995.github.io/event/example_3/</link>
+      <pubDate>Thu, 12 Jun 2025 14:30:00 +0000</pubDate>
+      <guid>https://tangxuemei1995.github.io/event/example_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>中国人民大学【求是论坛】 | GLAM领域中文化遗产资源的智能计算与创新应用</title>
+      <link>https://tangxuemei1995.github.io/event/example/</link>
+      <pubDate>Sat, 24 May 2025 09:00:00 +0000</pubDate>
+      <guid>https://tangxuemei1995.github.io/event/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CUHK Virtual Psycholinguistics Forum</title>
+      <link>https://tangxuemei1995.github.io/event/example_2/</link>
+      <pubDate>Wed, 26 Feb 2025 15:00:00 +0000</pubDate>
+      <guid>https://tangxuemei1995.github.io/event/example_2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

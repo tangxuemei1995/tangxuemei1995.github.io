@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | TANG Xuemei Homepage</title>
+    <link>https://tangxuemei1995.github.io/post/</link>
+      <atom:link href="https://tangxuemei1995.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tangxuemei1995.github.io/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Blog</title>
+      <link>https://tangxuemei1995.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>🎉Congratulations! One paper has been accepted by EMNLP 2025 main Conference!</title>
+      <link>https://tangxuemei1995.github.io/post/get-started/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://tangxuemei1995.github.io/post/get-started/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>🎉Congratulations! One paper has been accepted by Information Processing and Management !</title>
+      <link>https://tangxuemei1995.github.io/post/data-visualization_%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://tangxuemei1995.github.io/post/data-visualization_%E5%89%AF%E6%9C%AC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>🎉Congratulations! One paper has been accepted by ACL 2025 main Conference!</title>
+      <link>https://tangxuemei1995.github.io/post/data-visualization/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://tangxuemei1995.github.io/post/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
