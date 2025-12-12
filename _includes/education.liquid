@@ -1,0 +1,35 @@
+<div class="news">
+  {% assign edu_posts = site.posts | where: "type", "education" %}
+  {% assign edu_posts = edu_posts | sort: "end_year" | reverse %}  <!-- ⭐ 按 end_year 倒序 -->
+
+  {% if edu_posts != empty %}
+    <div
+      class="table-responsive"
+      {% if page.latest_posts.scrollable and edu_posts.size > 3 %}
+        style="max-height: 60vw"
+      {% endif %}
+    >
+      <table class="table table-sm table-borderless">
+
+        {% assign edu_limit = page.latest_posts.limit | default: edu_posts.size %}
+
+        {% for item in edu_posts limit: edu_limit %}
+          <tr>
+            <th scope="row" style="width: 25%">
+              {{ item.start_year }} – {{ item.end_year }}
+            </th>
+
+            <td>
+              <strong>{{ item.degree }}</strong><br/>
+              <em>{{ item.institution }}</em>
+            </td>
+          </tr>
+        {% endfor %}
+
+      </table>
+    </div>
+
+  {% else %}
+    <p>No education entries yet...</p>
+  {% endif %}
+</div>
