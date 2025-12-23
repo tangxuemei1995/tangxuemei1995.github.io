@@ -58,7 +58,7 @@ layout: default
     </p>
   </header>
 
-  <article class="post-content">
+  {% comment %} <article class="post-content">
     {% if page.toc and page.toc.beginning %}
       <div id="table-of-contents">
         {% toc %}
@@ -68,9 +68,9 @@ layout: default
     <div id="markdown-content">
       {{ content }}
     </div>
-  </article>
+  </article> {% endcomment %}
 
-  {% if page.citation %}
+  {% comment %} {% if page.citation %}
     {% include citation.liquid %}
   {% endif %}
 
@@ -92,5 +92,5 @@ layout: default
   {% endif %}
   {% if site.giscus and page.giscus_comments %}
     {% include giscus.liquid %}
-  {% endif %}
+  {% endif %} {% endcomment %}
 </div>
