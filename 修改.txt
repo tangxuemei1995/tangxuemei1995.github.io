@@ -1,6 +1,0 @@
-_bibliography/papers.bib  #添加selected论文
-assets/img #修改头像
-
-
-_includes/header.liquid
-中注释掉的部分是其他页面，之后可以恢复并修改{% endcomment %}
