@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-theme: null
+remote_theme: alshedivat/al-folio
 title: Xuemei TANG # the website title (if blank, full name will be used instead)
 first_name: Xuemei
 middle_name:
