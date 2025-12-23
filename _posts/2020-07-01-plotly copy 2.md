@@ -1,6 +1,7 @@
 ---
 layout: post
 type: education   # ⭐ 用来区分 blog 与 education
+toc: false   # ⭐ 关键
 start_year: 2012
 end_year: 2016
 degree: "Bachelor in Information Engineering"
