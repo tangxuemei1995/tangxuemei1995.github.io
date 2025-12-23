@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-
+theme: null
 title: Xuemei TANG # the website title (if blank, full name will be used instead)
 first_name: Xuemei
 middle_name:
