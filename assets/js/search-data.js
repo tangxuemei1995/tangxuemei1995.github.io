@@ -72,15 +72,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-plotly",
+            },{id: "post-bachelor-in-information-engineering",
         
-          title: "Plotly",
+          title: "Bachelor in Information Engineering",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/plotly/";
+            window.location.href = "/blog/2024/phd/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
@@ -105,26 +105,26 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "post-plotly-copy",
+      },{id: "post-bachelor-in-information-engineering",
         
-          title: "Plotly copy",
+          title: "Bachelor in Information Engineering",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2020/plotly-copy/";
+            window.location.href = "/blog/2020/bachelor/";
           
         },
-      },{id: "post-plotly-copy-2",
+      },{id: "post-bachelor-in-information-engineering",
         
-          title: "Plotly copy 2",
+          title: "Bachelor in Information Engineering",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2020/plotly-copy-2/";
+            window.location.href = "/blog/2016/master/";
           
         },
       },{id: "books-the-godfather",
