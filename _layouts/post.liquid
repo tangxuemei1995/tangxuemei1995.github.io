@@ -57,16 +57,4 @@ layout: default
       {% endif %}
     </p>
   </header>
-
-  <article class="post-content">
-    {% if page.toc and page.toc.beginning %}
-      <div id="table-of-contents">
-        {% include toc.liquid %}
-      </div>
-      <hr>
-    {% endif %}
-    <div id="markdown-content">
-      {{ content }}
-    </div>
-  </article>
 </div>

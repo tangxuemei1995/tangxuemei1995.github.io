@@ -65,41 +65,6 @@
       {% if page.authors %}
         <d-byline></d-byline>
       {% endif %}
-
-      <d-article>
-        {% if page.toc and page.toc.size > 0 %}
-          <d-contents>
-            <nav class="l-text figcaption">
-              <h3>Contents</h3>
-              {% for section in page.toc %}
-                <div>
-                  <a href="#{{ section.name | slugify }}">{{ section.name }}</a>
-                </div>
-                {% if section.subsections %}
-                  <ul>
-                    {% for subsection in section.subsections %}
-                      <li>
-                        <a href="#{{ subsection.name | slugify }}">{{ subsection.name }}</a>
-                      </li>
-                    {% endfor %}
-                  </ul>
-                {% endif %}
-              {% endfor %}
-            </nav>
-          </d-contents>
-
-        {% elsif page.toc == true %}
-          <d-contents>
-            <nav class="l-text figcaption">
-              <h3>Contents</h3>
-              {% toc %}
-            </nav>
-          </d-contents>
-        {% endif %}
-
-        {{ content }}
-      </d-article>
-
       <d-appendix>
         <d-footnote-list></d-footnote-list>
         <d-citation-list></d-citation-list>
