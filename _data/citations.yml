@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-06'
+  last_updated: '2026-02-13'
 papers:
   Hj4YeBgAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -22,7 +22,7 @@ papers:
     title: 'CHisIEC: An Information Extraction Corpus for Ancient Chinese History'
     year: '2024'
   Hj4YeBgAAAAJ:9yKSN-GCB0IC:
-    citations: 5
+    citations: 6
     title: Automatic recognition of allusions in tang poetry based on BERT
     year: '2019'
   Hj4YeBgAAAAJ:MXK_kJrjxJIC:
@@ -70,6 +70,6 @@ papers:
     title: 'ChisNERE: a premodern Chinese corpus with named entity and relation annotation'
     year: '2025'
   Hj4YeBgAAAAJ:zYLM7Y9cAGgC:
-    citations: 11
+    citations: 12
     title: A deep active learning-based and crowdsourcing-assisted solution for named entity recognition in Chinese historical corpora
     year: '2023'
