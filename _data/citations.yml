@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-18'
+  last_updated: '2026-03-06'
 papers:
   Hj4YeBgAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -22,8 +22,12 @@ papers:
     title: 'CHisIEC: An Information Extraction Corpus for Ancient Chinese History'
     year: '2024'
   Hj4YeBgAAAAJ:9yKSN-GCB0IC:
-    citations: 6
+    citations: 7
     title: Automatic recognition of allusions in tang poetry based on BERT
+    year: '2019'
+  Hj4YeBgAAAAJ:M3ejUd6NZC8C:
+    citations: 0
+    title: 'Diachronic Synonymy and Polysemy: Exploring Dynamic Relation Between Forms and Meanings of Words Based on Word Embeddings'
     year: '2019'
   Hj4YeBgAAAAJ:MXK_kJrjxJIC:
     citations: 16
