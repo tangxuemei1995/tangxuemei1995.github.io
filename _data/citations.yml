@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-06-26'
 papers:
   Hj4YeBgAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -18,19 +18,15 @@ papers:
     title: 'CHisAgent: A Multi-Agent Framework for Event Taxonomy Construction in Ancient Chinese Cultural Systems'
     year: '2026'
   Hj4YeBgAAAAJ:5nxA0vEk-isC:
-    citations: 26
+    citations: 29
     title: 'CHisIEC: An Information Extraction Corpus for Ancient Chinese History'
     year: '2024'
   Hj4YeBgAAAAJ:9yKSN-GCB0IC:
     citations: 7
     title: Automatic recognition of allusions in tang poetry based on BERT
     year: '2019'
-  Hj4YeBgAAAAJ:M3ejUd6NZC8C:
-    citations: 0
-    title: 'Diachronic Synonymy and Polysemy: Exploring Dynamic Relation Between Forms and Meanings of Words Based on Word Embeddings'
-    year: '2019'
   Hj4YeBgAAAAJ:MXK_kJrjxJIC:
-    citations: 27
+    citations: 32
     title: 'Large Language Models for Automated Literature Review: An Evaluation of Reference Generation, Abstract Writing, and Review Composition'
     year: '2025'
   Hj4YeBgAAAAJ:Se3iqnhoufwC:
@@ -46,7 +42,7 @@ papers:
     title: An Effective Incorporating Heterogeneous Knowledge Curriculum Learning for Sequence Labeling
     year: '2025'
   Hj4YeBgAAAAJ:YOwf2qJgpHMC:
-    citations: 16
+    citations: 19
     title: Language model collaboration for relation extraction from classical Chinese historical documents
     year: '2026'
   Hj4YeBgAAAAJ:YsMSGLbcyi4C:
@@ -54,29 +50,29 @@ papers:
     title: "HanNER:\u4E00\u4E2A\u9762\u5411\u6C49\u8BED\u53E4\u7C4D\u8BED\u6599\u547D\u540D\u5B9E\u4F53\u81EA\u52A8\u62BD\u53D6\u7684\u901A\u7528\u6846\u67B6"
     year: '2023'
   Hj4YeBgAAAAJ:Zph67rFs4hoC:
-    citations: 3
+    citations: 4
     title: "\u57FA\u4E8E\u56FE\u5377\u79EF\u795E\u7ECF\u7F51\u7EDC\u7684\u53E4\u6C49\u8BED\u5206\u8BCD\u7814\u7A76"
     year: '2023'
   Hj4YeBgAAAAJ:_kc_bZDykSQC:
     citations: 0
     title: Joint Information Extraction Across Classical and Modern Chinese with Tea-MOELoRA
     year: '2025'
+  Hj4YeBgAAAAJ:aqlVkmm33-oC:
+    citations: 0
+    title: Do Large Language Models Plan Answer Positions? Position Bias in Multiple-Choice Question Generation
+    year: '2026'
   Hj4YeBgAAAAJ:d1gkVwhDpl0C:
-    citations: 2
+    citations: 3
     title: Study on semantic transparency of Chinese compounds based on word embedding
     year: '2020'
   Hj4YeBgAAAAJ:hqOjcs7Dif8C:
-    citations: 12
+    citations: 16
     title: 'HLB: Benchmarking LLMs'' Humanlikeness in Language Use'
     year: '2024'
   Hj4YeBgAAAAJ:kNdYIx-mwKoC:
-    citations: 2
+    citations: 4
     title: 'ChisNERE: a premodern Chinese corpus with named entity and relation annotation'
     year: '2025'
-  Hj4YeBgAAAAJ:qxL8FJ1GzNcC:
-    citations: 0
-    title: 'A Metrological Study on the Spatial Narrative of the Qishu Genre: Take A Dream of Red Mansions and Water Margin as Examples'
-    year: '2022'
   Hj4YeBgAAAAJ:zYLM7Y9cAGgC:
     citations: 12
     title: A deep active learning-based and crowdsourcing-assisted solution for named entity recognition in Chinese historical corpora
