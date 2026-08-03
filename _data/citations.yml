@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-03'
 papers:
   Hj4YeBgAAAAJ:0EnyYjriUFMC:
     citations: 6
     title: Chinese word segmentation with heterogeneous graph convolutional network
     year: '2024'
   Hj4YeBgAAAAJ:2osOgNQ5qMEC:
-    citations: 16
+    citations: 15
     title: Authorship attribution of the golden lotus based on text classification methods
     year: '2019'
   Hj4YeBgAAAAJ:3fE2CSJIrl8C:
@@ -26,11 +26,11 @@ papers:
     title: 'CHisIEC: An Information Extraction Corpus for Ancient Chinese History'
     year: '2024'
   Hj4YeBgAAAAJ:9yKSN-GCB0IC:
-    citations: 8
-    title: Automatic recognition of allusions in tang poetry based on BERT
+    citations: 7
+    title: Automatic recognition of allusions in Tang poetry based on BERT
     year: '2019'
   Hj4YeBgAAAAJ:MXK_kJrjxJIC:
-    citations: 38
+    citations: 40
     title: 'Large Language Models for Automated Literature Review: An Evaluation of Reference Generation, Abstract Writing, and Review Composition'
     year: '2025'
   Hj4YeBgAAAAJ:Se3iqnhoufwC:
@@ -54,7 +54,7 @@ papers:
     title: "HanNER:\u4E00\u4E2A\u9762\u5411\u6C49\u8BED\u53E4\u7C4D\u8BED\u6599\u547D\u540D\u5B9E\u4F53\u81EA\u52A8\u62BD\u53D6\u7684\u901A\u7528\u6846\u67B6"
     year: '2023'
   Hj4YeBgAAAAJ:Zph67rFs4hoC:
-    citations: 4
+    citations: 2
     title: "\u57FA\u4E8E\u56FE\u5377\u79EF\u795E\u7ECF\u7F51\u7EDC\u7684\u53E4\u6C49\u8BED\u5206\u8BCD\u7814\u7A76"
     year: '2023'
   Hj4YeBgAAAAJ:_kc_bZDykSQC:
