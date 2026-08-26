@@ -132,8 +132,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-great-news-one-of-our-papers-has-been-accepted-by-acl-2025-main-conference",
-          title: '🎉 Great news! One of our papers has been accepted by ACL 2025...',
+            },},{id: "news-great-news-one-paper-has-been-accepted-by-acl-2025-main-conference",
+          title: '🎉 Great news! One paper has been accepted by ACL 2025 main Conference!...',
           description: "",
           section: "News",},{id: "news-great-news-one-paper-has-been-accepted-by-information-processing-amp-amp-management",
           title: '🎉 Great news! One paper has been accepted by Information Processing &amp;amp;amp; Management!...',
