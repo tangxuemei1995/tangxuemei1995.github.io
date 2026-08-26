@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Great news! Two papers accepted by EMNLP 2026 Findings!
+🎉 Great news! Two papers have been accepted by EMNLP 2026 Findings!
