@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Great news! One of our papers has been accepted by Information Processing & Management!
+🎉 Great news! One paper has been accepted by Information Processing & Management!
