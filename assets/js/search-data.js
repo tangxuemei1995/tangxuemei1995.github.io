@@ -147,8 +147,8 @@ ninja.data = [{
           section: "News",},{id: "news-excited-to-serve-as-an-area-chair-for-the-acl-arr-october-2025-cycle",
           title: '🌟 Excited to serve as an Area Chair for the ACL ARR October...',
           description: "",
-          section: "News",},{id: "news-great-news-two-of-our-papers-have-been-accepted-by-emnlp-2026-findings",
-          title: '🎉 Great news! Two of our papers have been accepted by EMNLP 2026...',
+          section: "News",},{id: "news-great-news-two-papers-accepted-by-emnlp-2026-findings",
+          title: '🎉 Great news! Two papers accepted by EMNLP 2026 Findings!',
           description: "",
           section: "News",},{
         id: 'social-cv',
